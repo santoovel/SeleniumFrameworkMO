@@ -5,5 +5,5 @@
     <classes>
       <class name="com.learnautomation.testcases.LoginTestCRM"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite>
